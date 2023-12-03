@@ -1,7 +1,10 @@
 {
   "name": "vite-react-typescript-template",
+  "description": "Starter template for React 18 & typescript projects with Vite",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": "Michael Epelboim",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",

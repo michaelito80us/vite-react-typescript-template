@@ -6,7 +6,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <div className="flex flex-col  items-center justify-center p-8 text-center min-h-screen">
+    <div className="flex flex-col items-center justify-center min-h-screen p-8 text-center">
       <div>
         <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
           <img
